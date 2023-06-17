@@ -10,7 +10,7 @@ public void Hindilanguage(){
 system.out.println("delhi");
 }
 public static void main(String[] args){
-LanguageInfo.l=new LanguageInfo();
+LanguageInfo l=new LanguageInfo();
 l.Tamillanguage();
 l.Englishlanguage();
 l.Hindilanguage();
